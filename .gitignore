@@ -176,4 +176,4 @@ env.bak/
 venv.bak/
 __pycache__/
 *.pyc
-
+main/migrations/*
